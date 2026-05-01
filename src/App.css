@@ -1,0 +1,14 @@
+#root {
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+    min-height: 100vh;       
+    margin: 0;
+  }
+
+.title {
+    font-size: 20px;
+    color: black;
+    line-height: 1.5;
+    font-family: sans-serif;
+}
